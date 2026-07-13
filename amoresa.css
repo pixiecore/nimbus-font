@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Amoresa';
-    src: url('amoresa-regular.otf') format('opentype');
+    src: url('./amoresa-regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
