@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Tan nimbus';
+    font-family: 'Amoresa';
     src: url('./GalanoGrotesqueAltBlack.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
